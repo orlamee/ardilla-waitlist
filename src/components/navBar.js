@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import logo from "../img/logo-white.png";
 
 
@@ -6,14 +6,14 @@ function Header() {
   return (
     <nav className="navbar fixed-top navbar-expand-lg py-4 navbar-light px-1 navhome">
       <div className="container header">
-        <Link className="navbar-brand" to="/">
+        <a className="navbar-brand" href="/#home">
           <img
             src={logo}
             alt=""
             className="img-fluid"
             style={{ marginTop: "-8px" }}
           />
-        </Link>
+        </a>
         <button
           className="navbar-toggler"
           type="button"

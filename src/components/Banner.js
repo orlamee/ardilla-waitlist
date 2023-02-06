@@ -2,7 +2,7 @@ import liner from "../img/liner.svg";
 
 function Banner() {
   return (
-    <div className="banner">
+    <div className="banner" id="home">
       <div className="container">
         <div className="row justify-content-center">
           <div className="col-md-6 text-center">

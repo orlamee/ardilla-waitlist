@@ -2,7 +2,7 @@ import features from "../img/feat.svg";
 
 function Features() {
   return (
-    <div className="features" id="features">
+    <div className="features mt-5" id="features">
       <div className="container">
         <div className="row">
           <div className="col-md-4">
