@@ -26,7 +26,7 @@ function Header() {
           <div className="ms-auto">
             <ul className="navbar-nav">
               <li className="nav-item">
-                <a className="nav-link text-white me-3" href="/#feats">
+                <a className="nav-link text-white me-3" href="/#features">
                   Features
                 </a>
               </li>
