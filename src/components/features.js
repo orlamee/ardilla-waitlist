@@ -10,7 +10,7 @@ function Features() {
           </div>
         </div>
         <div className="row top">
-          <div id="carouselExample" className="carousel slide">
+          <div id="carouselExample" className="carousel slide" data-bs-ride="carousel">
             <div className="carousel-inner">
               <div className="carousel-item active">
                 <div className="row">
