@@ -14,7 +14,7 @@ function Footer() {
           <div className="col-md-2">
             <div className="d-flex flex-row">
               <Link to="/"><img src={fb} alt="facebook" className="img-fluid me-3" title="Follow us on Facebook" /></Link>
-              <Link to="/"><img src={tw} alt="facebook" className="img-fluid me-3" title="Follow us on Instagram" /></Link>
+              <a href="https://instagram.com/useardilla?igshid=YmMyMTA2M2Y=" target="_blank" rel="noreferrer"><img src={tw} alt="facebook" className="img-fluid me-3" title="Follow us on Instagram" /></a>
               <Link to="/"><img src={insta} alt="facebook" className="img-fluid me-3" title="Follow us on Twitter" /></Link>
             </div>
           </div>
